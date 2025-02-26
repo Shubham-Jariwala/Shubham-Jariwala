@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-Jariwala
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in AI and Machine Learning
+- 🌱 I’m currently learning Agentic AI
 - 💞️ I’m looking to collaborate on Kaggle
 - 📫 How to reach me https://www.linkedin.com/in/shubham-jariwala-b24b7921b
 
